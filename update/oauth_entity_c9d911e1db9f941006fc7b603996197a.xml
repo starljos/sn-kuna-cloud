@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
+    <oauth_entity action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <access_token_lifespan>1800</access_token_lifespan>
+        <active>true</active>
+        <auth_code_lifespan>0</auth_code_lifespan>
+        <auth_url>https://accounts.google.com/o/oauth2/auth</auth_url>
+        <certificate_url/>
+        <client_id>289652187729-brg0mj75mc6ptm0u0knlboehj4m6jupj.apps.googleusercontent.com</client_id>
+        <client_secret>rukRYb08J92uH7glqTRTxBZcFYSRcpe7ezGkmvhMoxg=</client_secret>
+        <client_uuid>09d911e1db9f941006fc7b603996197a</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
+        <comments/>
+        <default_grant_type>authorization_code</default_grant_type>
+        <id_token_lifespan>0</id_token_lifespan>
+        <logo_url/>
+        <message_signature_lifespan>0</message_signature_lifespan>
+        <name>Google API</name>
+        <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
+        <redirect_url>https://dev81817.service-now.com/oauth_redirect.do</redirect_url>
+        <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
+        <revoke_token_url>https://accounts.google.com/o/oauth2/revoke</revoke_token_url>
+        <salt>0</salt>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
+        <sys_class_name>oauth_entity</sys_class_name>
+        <sys_created_by>marek.polasik</sys_created_by>
+        <sys_created_on>2020-09-16 18:59:31</sys_created_on>
+        <sys_id>c9d911e1db9f941006fc7b603996197a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google API</sys_name>
+        <sys_package display_value="Kuna Cloud" source="x_84446_kuna_cloud">603955a1db9f941006fc7b6039961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kuna Cloud">603955a1db9f941006fc7b6039961984</sys_scope>
+        <sys_update_name>oauth_entity_c9d911e1db9f941006fc7b603996197a</sys_update_name>
+        <sys_updated_by>marek.polasik</sys_updated_by>
+        <sys_updated_on>2020-09-16 18:59:31</sys_updated_on>
+        <token_url>https://www.googleapis.com/oauth2/v3/token</token_url>
+        <type>oauth_provider</type>
+        <use_mutual_auth>false</use_mutual_auth>
+        <user/>
+    </oauth_entity>
+</record_update>

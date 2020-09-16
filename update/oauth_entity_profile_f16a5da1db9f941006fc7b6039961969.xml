@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_profile">
+    <oauth_entity_profile action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <grant_type>authorization_code</grant_type>
+        <jwt_provider/>
+        <name>Google API default_profile</name>
+        <oauth_entity display_value="Google API">c9d911e1db9f941006fc7b603996197a</oauth_entity>
+        <sys_class_name>oauth_entity_profile</sys_class_name>
+        <sys_created_by>marek.polasik</sys_created_by>
+        <sys_created_on>2020-09-16 18:59:31</sys_created_on>
+        <sys_id>f16a5da1db9f941006fc7b6039961969</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Google API default_profile</sys_name>
+        <sys_package display_value="Kuna Cloud" source="x_84446_kuna_cloud">603955a1db9f941006fc7b6039961984</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Kuna Cloud">603955a1db9f941006fc7b6039961984</sys_scope>
+        <sys_update_name>oauth_entity_profile_f16a5da1db9f941006fc7b6039961969</sys_update_name>
+        <sys_updated_by>marek.polasik</sys_updated_by>
+        <sys_updated_on>2020-09-16 18:59:31</sys_updated_on>
+    </oauth_entity_profile>
+</record_update>
